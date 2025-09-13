@@ -1,0 +1,5 @@
+{
+  "name": "LUMEN Quest 2.0 – Subscription Management System",
+  "description": "A comprehensive subscription management system for end-users and administrators. Users can manage their broadband plans, while administrators can oversee plans, pricing, and view analytics.",
+  "requestFramePermissions": []
+}
